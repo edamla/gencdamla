@@ -9,28 +9,18 @@ permalink: "/kitaplar"
     <div class="row gap-y listrecent listrecent listauthor">
     {% assign books = site.books | sort: "publish-number" | reverse %}
     {% for book in books %}
-        <div class="col-lg-6 mb-4">
-            <a href="{{ book.url }}">
-            <div class="p-4 border rounded">
-            <div class="row">
-            <div class="col-md-6 mb-6 mb-md-0"><img alt="{{ book.name }}" src="{{site.baseurl}}/{{ book.image }}" class="rounded cover-shadow" height="auto" width="100%"></div>
-            <div class="col-md-6">
+
+    <div class="col-12 col-sm-3 p-4 border rounded kitap-kutu">
+        <a class="baslik-link" href="{{ book.url }}"">            
+            <img class="cover-images" src="{{site.baseurl}}/{{ book.image }}" alt="">
             <h4 class="text-dark mb-0"> {{ book.title }} </h4>
             {% for bookauthor in book.authors %}
-                {% assign siteauthor = site.authors | where:"key", bookauthor | first %}
-                    <small class="d-inline-block mt-1 mb-3 font-weight-normal">{{siteauthor.title}}</small>
-                    {% if forloop.last == false %} - {% endif %}
-            {% endfor %}
-            <div class="excerpt">{{ book.excerpt | markdownify | truncate:350 }}</div>
-            <div class="icon-block mt-3 d-flex justify-content-between">  
-            <div>
-            </div>
-            </div>
-            </div>
-            </div>
-            </div>
+            {% assign siteauthor = site.authors | where:"key", bookauthor | first %}
+                <h5 class="d-inline-block mt-2 mb-1 font-weight-normal">{{siteauthor.title}}</h5>
+                {% if forloop.last == false %} - {% endif %}
+        {% endfor %}
         </a>
-        </div>
+    </div>  
     {% endfor %}
     </div>
 </div>
