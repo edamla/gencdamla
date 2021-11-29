@@ -1,7 +1,7 @@
 ---
 layout: book
 title:  "Tolya Bekçisi"
-authors: ["esra-avgoren","serpil-kutluca","sibel-turkmen","esra-coskun"]
+authors: ["esra-avgoren"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786053839606.jpg
@@ -39,4 +39,9 @@ Emmarlar tüm hazırlıklarını tamamladılar. Ceyd Taşı çatlıyor...
 Dünyanın kurtulması için Tolya Bekçisi’nin kapıyı mühürlemesi gerek. Peki ya Tolya Bekçisi muskasına erişebilecek mi?
 Ceyd ormana âşık bir gençtir. Bir gece çıkan orman yangınıyla tüm hayatı altüst olur. Yangın esnasında kendini bambaşka bir dünyada, nefslerin dünyasında bulur. O dünyada her şey soluk, her şey yabancı... İkizi Yeşim ve arkadaşı Sina ise kaybolan Ceyd’in peşindeler... Bir tarafta Yeşim ve Sina’nın, Ceyd’i bulabilmek için atıldıkları maceralar, bir tarafta ortaya çıkan yeni sırlar... Ceyd, Yeşim ve Sina, nefslere karşı birlikte savaşmak zorundalar. Dünyayı onlardan korumalılar. Peki, koruyabilecekler mi? Ceyd, gerçek dünyaya dönebilecek mi? Nefslerin dünyaya gelmelerine engel olabilecek mi?
 İşte Tolya Bekçisi, tüm bu soruların cevaplarını bulabileceğiniz bir dünyanın kapılarını aralıyor size!
+**Kitabın Yazarları**
+
+Serpil Kutluca
+Sibel Türkmen
+Esra Coşkun
 <!--more--> 
