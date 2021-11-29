@@ -191,7 +191,21 @@ description: "Tarihimiz yeniden milletin oluncaya kadar sürecek mücadelemiz!"
     
 </div>
 
-{% assign books = site.books %}
+
+<h4 class="font-weight-bold spanborder"><span>Yeni Çıkanlar</span></h4>
+{% assign bookarray = "" | split: ',' %}
+{% assign sortedarray = "" | split: ',' %}
+
+{% assign sortedarray = site.books | sort: "publish-number" | reverse %}
+
+{% for book in sortedarray limit:10 %}
+    {% assign bookarray = bookarray | push: book %}
+{% endfor %}
+
+{% assign books = bookarray %}
+{% include product-slider.html %}
+
+<!-- {% assign books = site.books %}
 {% include product-slider.html %}
    
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
