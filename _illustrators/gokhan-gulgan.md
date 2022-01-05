@@ -1,8 +1,8 @@
 ---
 layout: illustrator
-title: "Gökhan Gülgan"
-key: "gokhan-gulgan"
-image: assets/images/avatar/gokhan-gulgan.jpg
+title: "Gökhan Gülkan"
+key: "gokhan-gulkan"
+image: assets/images/avatar/noname.jpg
 
 twitter: #https://twitter.com/mustafarmagan
 facebook: #https://www.facebook.com/korku.duvarini.yikmak

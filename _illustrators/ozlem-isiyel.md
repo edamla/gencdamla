@@ -2,7 +2,7 @@
 layout: illustrator
 title: "Özlem Isıyel"
 key: "ozlem-isiyel"
-image: assets/images/avatar/ozlem-isiyel.jpg
+image: assets/images/avatar/noname.jpg
 
 twitter: #https://twitter.com/mustafarmagan
 facebook: #https://www.facebook.com/korku.duvarini.yikmak

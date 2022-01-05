@@ -2,7 +2,7 @@
 layout: illustrator
 title: "Ramila Aliyeva"
 key: "ramila-aliyeva"
-image: assets/images/avatar/ramila-aliyeva.jpg
+image: assets/images/avatar/noname.jpg
 
 twitter: #https://twitter.com/mustafarmagan
 facebook: #https://www.facebook.com/korku.duvarini.yikmak

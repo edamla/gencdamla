@@ -2,7 +2,7 @@
 layout: illustrator
 title: "Uğur Köse"
 key: "ugur-kose"
-image: assets/images/avatar/ugur-kose.jpg
+image: assets/images/avatar/noname.jpg
 
 twitter: #https://twitter.com/mustafarmagan
 facebook: #https://www.facebook.com/korku.duvarini.yikmak

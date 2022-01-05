@@ -2,7 +2,7 @@
 layout: illustrator
 title: "Ayşe Kıtıl Yıldırım"
 key: "ayse-kitil-yildirim"
-image: assets/images/avatar/ayse-kitil-yildirim.jpg
+image: assets/images/avatar/noname.jpg
 
 twitter: #https://twitter.com/mustafarmagan
 facebook: #https://www.facebook.com/korku.duvarini.yikmak

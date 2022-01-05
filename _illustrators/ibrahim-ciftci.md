@@ -2,7 +2,7 @@
 layout: illustrator
 title: "İbrahim Çiftçi"
 key: "ibrahim-ciftci"
-image: assets/images/avatar/ibrahim-ciftci.jpg
+image: assets/images/avatar/noname.jpg
 
 twitter: #https://twitter.com/mustafarmagan
 facebook: #https://www.facebook.com/korku.duvarini.yikmak

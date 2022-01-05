@@ -2,7 +2,7 @@
 layout: illustrator
 title: "Suat Karadağ"
 key: "suat-karadag"
-image: assets/images/avatar/suat-karadag.jpg
+image: assets/images/avatar/noname.jpg
 
 twitter: #https://twitter.com/mustafarmagan
 facebook: #https://www.facebook.com/korku.duvarini.yikmak

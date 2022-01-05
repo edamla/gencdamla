@@ -2,7 +2,7 @@
 layout: illustrator
 title: "Kenan Özcan"
 key: "kenan-ozcan"
-image: assets/images/avatar/kenan-ozcan.jpg
+image: assets/images/avatar/noname.jpg
 
 twitter: #https://twitter.com/mustafarmagan
 facebook: #https://www.facebook.com/korku.duvarini.yikmak

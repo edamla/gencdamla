@@ -2,7 +2,7 @@
 layout: illustrator
 title: "Eren Dedeleroğlu"
 key: "eren-dedeleroglu"
-image: assets/images/avatar/eren-dedeleroglu.jpg
+image: assets/images/avatar/noname.jpg
 
 twitter: #https://twitter.com/mustafarmagan
 facebook: #https://www.facebook.com/korku.duvarini.yikmak

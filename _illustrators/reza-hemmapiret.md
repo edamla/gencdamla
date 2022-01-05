@@ -1,8 +1,8 @@
 ---
 layout: illustrator
-title: "Reza Hemmapiret"
-key: "reza-hemmapiret"
-image: assets/images/avatar/reza-hemmapiret.jpg
+title: "Rezza Hemmapiret"
+key: "rezza-hemmapiret"
+image: assets/images/avatar/noname.jpg
 
 twitter: #https://twitter.com/mustafarmagan
 facebook: #https://www.facebook.com/korku.duvarini.yikmak
