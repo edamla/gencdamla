@@ -1,8 +1,8 @@
 ---
-order: 1
-title:  "Hacker Nine"
-img: "assets/images/slides/8.jpg"
-mobile-img: "assets/images/slides/8m.jpg"
-href: "/kitaplar/hacker-nine"
+order: 7
+title:  "Dron Savaşları Mağaradaki Sır"
+img: "assets/images/slides/4.jpg"
+mobile-img: "assets/images/slides/4m.jpg"
+href: "/kitaplar/dron-savaslari-magaradaki-sir"
 target: "" # _blank
 ---

@@ -1,8 +1,8 @@
 ---
-order: 4
-title:  "Saçaklı Kızın Pasaklı Günlüğü 2"
-img: "assets/images/slides/1.jpg"
-mobile-img: "assets/images/slides/1m.jpg"
-href: "/kitaplar/sacakli-kizin-pasakli-gunlugu-2"
+order: 2
+title:  "İnci'nin Anahtarı"
+img: "assets/images/slides/7.jpg"
+mobile-img: "assets/images/slides/7m.jpg"
+href: "/kitaplar/incinin-anahtari"
 target: "" # _blank
 ---

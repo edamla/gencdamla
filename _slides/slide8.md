@@ -1,8 +1,8 @@
 ---
-order: 2
-title:  "İnci'nin Anahtarı"
-img: "assets/images/slides/7.jpg"
-mobile-img: "assets/images/slides/7m.jpg"
-href: "/kitaplar/incinin-anahtari"
+order: 8
+title:  "Dedektiflik Kuruntusu 2 Bu Diş izleri kimin"
+img: "assets/images/slides/5.jpg"
+mobile-img: "assets/images/slides/5m.jpg"
+href: "/kitaplar/dedektiflik-kuruntusu-2-bu-dis-izleri-kimin"
 target: "" # _blank
 ---

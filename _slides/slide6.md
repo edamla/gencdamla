@@ -1,8 +1,8 @@
 ---
-order: 8
-title:  "Dedektiflik Kuruntusu 2 Bu Diş izleri kimin"
-img: "assets/images/slides/5.jpg"
-mobile-img: "assets/images/slides/5m.jpg"
-href: "/kitaplar/dedektiflik-kuruntusu-2-bu-dis-izleri-kimin"
+order: 6
+title:  "Gizemli Gizem Ah Çarpan Bir Eleman Olsam!"
+img: "assets/images/slides/3.jpg"
+mobile-img: "assets/images/slides/3m.jpg"
+href: "/kitaplar/gizemli-gizem-ah-bir-carpan-eleman-olsam"
 target: "" # _blank
 ---

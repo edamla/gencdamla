@@ -1,8 +1,8 @@
 ---
-order: 3
-title:  "Damla Yayınevi Londra Kitap Fuarı Uluslararası Mükemmellik 2022 Ödülü Finalist Listesi’nde"
-img: "assets/images/slides/6.jpg"
-mobile-img: "assets/images/slides/6m.jpg"
-href: "/londra-fuari-finalist-listesi"
+order: 1
+title:  "Hacker Nine"
+img: "assets/images/slides/8.jpg"
+mobile-img: "assets/images/slides/8m.jpg"
+href: "/kitaplar/hacker-nine"
 target: "" # _blank
 ---
