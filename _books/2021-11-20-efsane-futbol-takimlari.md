@@ -1,7 +1,7 @@
 ---
 layout: book
 title:  "Efsane Futbol Takımları"
-authors: ["nur-dombayci"]
+authors: ["sara-gurbuz-ozeren"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
 image: assets/images/ean/9786254113062.jpg
