@@ -30,6 +30,13 @@ amazontr: #"https://www.amazon.com.tr"
 dkitap: #"https://www.dkitap.com/gizemli-gizem-tekerlekli-bir-evim-olsa"
 damlayayinevi: "https://www.damlayayinevi.com.tr/hacker-nine"
 
+youtube: true
+youtube-button: "Tanıtım Animasyonu" 
+youtubes: [ 
+['Hacker Nine', '01:59' ,'https://www.youtube.com/watch?v=2eumt5k5Vxc']
+]
+
+
 # For adding excerpt add <!--more--> and break the line
 ---
 Heeeeyy! Bilgisayar kurdu!

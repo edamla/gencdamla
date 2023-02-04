@@ -864,7 +864,7 @@ a:hover {
 	text-decoration: none !important;
 }
 
-.cover-images {
+/* .cover-images {
 	width: 75%;
 	margin-bottom: 2vh;
 	background: #1abc9c;
@@ -872,8 +872,39 @@ a:hover {
 	-webkit-transition: .3s ease-in-out;
 	transition: .3s ease-in-out;
 	
-}
+} */
+
 .kitap-kutu{
 	background: #f5f5f5;
 	margin-bottom: 4vh;
+}
+
+.img-grade {
+	max-height: 10vh;
+	padding-bottom: 1vh;
+}
+
+
+.fa-facebook-square {
+	color: #3b5998;
+}
+
+.fa-instagram-square {
+	color: #e4405f;
+}
+
+.fa-twitter-square {
+	color: #55acee;
+}
+
+.fa-youtube-square {
+	color: #bb0000;
+}
+
+.tns-ovh{
+	padding-top: 15px;
+}
+
+.fa-2-5x {
+    font-size: 2.5em;
 }
