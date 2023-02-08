@@ -1,8 +1,8 @@
 ---
 order: 1
-title:  "Hacker Nine"
-img: "assets/images/slides/8.jpg"
-mobile-img: "assets/images/slides/8m.jpg"
-href: "/kitaplar/hacker-nine"
+title:  ""
+img: "assets/images/slides/9.jpg"
+mobile-img: "assets/images/slides/9m.jpg"
+href: "#"
 target: "" # _blank
 ---
