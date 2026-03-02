@@ -18,16 +18,6 @@ publish-number: 17
 cover: "Karton Kapak"
 
 # Buyout Ecommerce
-dnr: "https://www.dr.com.tr/kitap/cingoz-recai-zeyrek-cinayeti/peyami-safa/edebiyat/roman/polisiye/urunno=0000000631308"
-kitapyurdu: "https://www.kitapyurdu.com/kitap/zeyrek-cinayeti--cingoz-recai/356495.html&filter_name=Zeyrek+Cinayeti"
-idefix: "https://www.idefix.com/kitap/cingoz-recai-zeyrek-cinayeti/peyami-safa/edebiyat/roman/polisiye/urunno=0000000631308"
-hepsiburada: "https://www.hepsiburada.com/cingoz-recai-zeyrek-cinayeti-peyami-safa-p-HBV0000010CQM"
-trendyol: "https://www.trendyol.com/damla-yayinlari/cingoz-recai-zeyrek-cinayeti-p-2137260"
-gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
-odatvkitap: #"https://www.odatvkitap.com.tr"
-bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
-amazontr: #"https://www.amazon.com.tr"
-dkitap: "https://www.dkitap.com/zeyrek-cinayeti-cingoz-recai-serisi-11"
 damlayayinevi: "https://www.damlayayinevi.com.tr/zeyrek-cinayeti-cingoz-recai-serisi-11"
 
 # For adding excerpt add <!--more--> and break the line

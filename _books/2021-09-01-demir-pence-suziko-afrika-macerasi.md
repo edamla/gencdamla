@@ -18,16 +18,7 @@ publish-number: 51
 cover: "Ciltli"
 
 # Buyout Ecommerce
-dnr: #"https://www.dr.com.tr/kitap/dron-savascilari-buyuk-bulus/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001800073001"
-kitapyurdu: "https://www.kitapyurdu.com/kitap/demir-pence-suziko--afrika-macerasi-/518234.html&filter_name=Demir+Pen%C3%A7e+Suziko+Afrika+Maceras%C4%B1"
-idefix: #"https://www.idefix.com/kitap/dron-savascilari-buyuk-bulus/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001800073001"
-hepsiburada: "https://www.hepsiburada.com/demir-pence-suziko-afrika-macerasi-sara-gurbuz-ozeren-p-HBV00000P75K0"
-trendyol: "https://www.trendyol.com/genc-damla-yayinevi/demir-pence-suziko-afrika-macerasi-p-32309374"
-gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
-odatvkitap: #"https://www.odatvkitap.com.tr"
-bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
-amazontr: #"https://www.amazon.com.tr"
-dkitap: "https://www.dkitap.com/demir-pence-suziko-afrika-macerasi"
+
 damlayayinevi: "https://www.damlayayinevi.com.tr/demir-pence-suziko-afrika-macerasi"
 
 # For adding excerpt add <!--more--> and break the line

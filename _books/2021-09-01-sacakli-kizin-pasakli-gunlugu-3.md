@@ -18,16 +18,7 @@ publish-number: 60
 cover: "Ciltli"
 
 # Buyout Ecommerce
-dnr: #""
-kitapyurdu: "https://www.kitapyurdu.com/kitap/sacakli-kizin-pasakli-gunlugu-3-itirazim-var-/665025.html&filter_name=sa%C3%A7akl%C4%B1+k%C4%B1z%C4%B1n+"
-idefix: #""
-hepsiburada: #""
-trendyol: #""
-gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
-odatvkitap: #"https://www.odatvkitap.com.tr"
-bkmkitap: "https://www.bkmkitap.com/sacakli-kizin-pasakli-gunlugu-3"
-amazontr: #"https://www.amazon.com.tr"
-dkitap: #"https://www.dkitap.com/sacakli-kizin-pasakli-gunlugu"
+
 damlayayinevi: "https://www.damlayayinevi.com.tr/sacakli-kizin-pasakli-gunlugu-3-itirazim-var"
 
 # For adding excerpt add <!--more--> and break the line

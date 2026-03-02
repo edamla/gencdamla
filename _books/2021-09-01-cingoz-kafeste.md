@@ -18,16 +18,7 @@ publish-number: 12
 cover: "Karton Kapak"
 
 # Buyout Ecommerce
-dnr: "https://www.dr.com.tr/kitap/cingoz-kafeste-cingoz-recai/cocuk-ve-genclik/okul-cagi-6-10-yas/cocuk-oykuhikaye/urunno=0000000500618"
-kitapyurdu: "https://www.kitapyurdu.com/kitap/cingoz-kafeste--cingoz-recai/5917.html&filter_name=cing%C3%B6z+kafeste"
-idefix: "https://www.idefix.com/kitap/cingoz-kafeste-cingoz-recai/cocuk-ve-genclik/okul-cagi-6-10-yas/cocuk-oykuhikaye/urunno=0000000500618"
-hepsiburada: "https://www.hepsiburada.com/cingoz-recai-cingoz-kafeste-peyami-safa-p-KDAMLA37183"
-trendyol: "https://www.trendyol.com/damla-yayinevi/cingoz-kafeste-cingoz-recai-p-3280364"
-gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
-odatvkitap: #"https://www.odatvkitap.com.tr"
-bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
-amazontr: #"https://www.amazon.com.tr"
-dkitap: "https://www.dkitap.com/cingoz-kafeste-cingoz-recai-serisi-07"
+
 damlayayinevi: "https://www.damlayayinevi.com.tr/cingoz-kafeste-cingoz-recai-serisi-07"
 
 # For adding excerpt add <!--more--> and break the line

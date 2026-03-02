@@ -18,16 +18,7 @@ publish-number: 27
 cover: "Karton Kapak"
 
 # Buyout Ecommerce
-dnr: "https://www.dr.com.tr/kitap/cingoz-recai-arsen-lupen-%C4%B1stanbulda/peyami-safa/edebiyat/roman/polisiye/urunno=0000000673268"
-kitapyurdu: "https://www.kitapyurdu.com/kitap/cingoz-recai--arsen-lupen-istanbulda/381668.html&filter_name=Arsen+L%C3%BCpen+%C4%B0stanbul%27da"
-idefix: "https://www.idefix.com/kitap/cingoz-recai-arsen-lupen-%C4%B1stanbulda/peyami-safa/edebiyat/roman/polisiye/urunno=0000000673268"
-hepsiburada: "https://www.hepsiburada.com/cingoz-recai-arsen-lupen-istanbulda-peyami-safa-p-KDAMLA40928"
-trendyol: "https://www.trendyol.com/genc-damla-yayinevi/cingoz-recai-arsen-lupen-istanbulda-peyami-safa-genc-damla-yayinlari-p-3261837"
-gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
-odatvkitap: #"https://www.odatvkitap.com.tr"
-bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
-amazontr: #"https://www.amazon.com.tr"
-dkitap: "https://www.dkitap.com/arsen-lupen-istanbulda-cingoz-recai-serisi-12"
+
 damlayayinevi: "https://www.damlayayinevi.com.tr/arsen-lupen-istanbul-da-cingoz-recai-serisi-12"
 
 # For adding excerpt add <!--more--> and break the line

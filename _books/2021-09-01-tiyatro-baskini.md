@@ -18,16 +18,7 @@ publish-number: 3
 cover: "Karton Kapak"
 
 # Buyout Ecommerce
-dnr: "https://www.dr.com.tr/kitap/cingoz-recai-tiyatro-baskini/peyami-safa/edebiyat/roman/polisiye/urunno=0000000547202"
-kitapyurdu: "https://www.kitapyurdu.com/kitap/tiyatro-baskini--cingoz-recai/5912.html&filter_name=tiyatro+bask%C4%B1n%C4%B1"
-idefix: "https://www.idefix.com/kitap/cingoz-recai-tiyatro-baskini/peyami-safa/edebiyat/roman/polisiye/urunno=0000000547202"
-hepsiburada: #"https://www.hepsiburada.com/ilya-nin-sirri-p-KDAMLA34465"
-trendyol: #"https://www.trendyol.com/humayun-yayinlari/abdulhamid-in-kurtlarla-dansi-1-p-156300963"
-gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
-odatvkitap: #"https://www.odatvkitap.com.tr"
-bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
-amazontr: #"https://www.amazon.com.tr"
-dkitap: "https://www.dkitap.com/tiyatro-baskini-cingoz-recai-serisi-02"
+
 damlayayinevi: "https://www.damlayayinevi.com.tr/tiyatro-baskini-cingoz-recai-serisi-02"
 
 # For adding excerpt add <!--more--> and break the line

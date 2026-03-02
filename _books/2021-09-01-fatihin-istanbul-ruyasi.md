@@ -18,16 +18,6 @@ publish-number: 22
 cover: "Karton Kapak"
 
 # Buyout Ecommerce
-dnr: "https://www.dr.com.tr/kitap/fatihin-%C4%B1stanbul-ruyasi/talip-arisahin/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0000000646217"
-kitapyurdu: "https://www.kitapyurdu.com/kitap/fatihin-istanbul-ruyasi/367994.html&filter_name=Fatih%27in+%C4%B0stanbul+R%C3%BCyas%C4%B1"
-idefix: "https://www.idefix.com/kitap/fatihin-%C4%B1stanbul-ruyasi/talip-arisahin/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0000000646217"
-hepsiburada: "https://www.hepsiburada.com/fatihin-istanbul-ruyasi-talip-arisahin-p-KDAMLA39842"
-trendyol: "https://www.trendyol.com/genc-damla-yayinevi/fatih-in-istanbul-ruyasi-p-3264277"
-gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
-odatvkitap: #"https://www.odatvkitap.com.tr"
-bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
-amazontr: #"https://www.amazon.com.tr"
-dkitap: "https://www.dkitap.com/fatihin-istanbul-ruyasi"
 damlayayinevi: "https://www.damlayayinevi.com.tr/fatih-in-istanbul-ruyasi"
 
 # For adding excerpt add <!--more--> and break the line

@@ -18,16 +18,6 @@ publish-number: 62
 cover: "Ciltli"
 
 # Buyout Ecommerce
-dnr: "https://www.dr.com.tr/kitap/demir-pence-suziko-asya-macerasi/cocuk-ve-genclik/genclik-10-yas/fantastik-bilim-kurgu/urunno=0001910581001"
-kitapyurdu: "https://www.kitapyurdu.com/kitap/demir-pence-suziko--asya-macerasi/575076.html&filter_name=Demir+Pen%C3%A7e+Suziko"
-idefix: "https://www.idefix.com/kitap/demir-pence-suziko-asya-macerasi/cocuk-ve-genclik/genclik-10-yas/fantastik-bilim-kurgu/urunno=0001910581001"
-hepsiburada: "https://www.hepsiburada.com/damla-yayinevi-demir-pence-suziko-asya-macerasi-p-HBCV000002M3F3"
-trendyol: "https://www.trendyol.com/damla-yayinevi-cocuk/demir-pence-suziko-asya-macerasi-p-90281488"
-gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
-odatvkitap: #"https://www.odatvkitap.com.tr"
-bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
-amazontr: #"https://www.amazon.com.tr"
-dkitap: #"https://www.dkitap.com/demir-pence-suziko-afrika-macerasi"
 damlayayinevi: "https://www.damlayayinevi.com.tr/demir-pence-suziko-asya-macerasi"
 
 # For adding excerpt add <!--more--> and break the line

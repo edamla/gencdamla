@@ -18,16 +18,7 @@ publish-number: 19
 cover: "Karton Kapak"
 
 # Buyout Ecommerce
-dnr: #"https://www.dr.com.tr/kitap/cingoz-recai-cingozun-esrari/edebiyat/roman/polisiye/urunno=0000000653122"
-kitapyurdu: #"https://www.kitapyurdu.com/kitap/cingoz-recai--cingozun-esrari/367998.html&filter_name=Cing%C3%B6z%27%C3%BCn+Esrar%C4%B1"
-idefix: #"https://www.idefix.com/kitap/cingoz-recai-cingozun-esrari/edebiyat/roman/polisiye/urunno=0000000653122"
-hepsiburada: "https://www.hepsiburada.com/tolya-bekcisi-p-HBV000004KHUY"
-trendyol: "https://www.trendyol.com/genc-damla-yayinevi/tolya-bekcisi-esra-a-coskun-esra-avgoren-serpil-l-kutluca-sibel-turkmen-p-3396362"
-gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
-odatvkitap: #"https://www.odatvkitap.com.tr"
-bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
-amazontr: #"https://www.amazon.com.tr"
-dkitap: "https://www.dkitap.com/tolya-bekcisi"
+
 damlayayinevi: "https://www.damlayayinevi.com.tr/tolya-bekcisi"
 
 # For adding excerpt add <!--more--> and break the line

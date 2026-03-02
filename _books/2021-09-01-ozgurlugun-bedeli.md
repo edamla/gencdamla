@@ -18,16 +18,6 @@ publish-number: 21
 cover: "Karton Kapak"
 
 # Buyout Ecommerce
-dnr: #"https://www.dr.com.tr/kitap/bir-yudum-sevgi/cocuk-ve-genclik/genclik-10-yas/romanoyku/urunno=0000000646232"
-kitapyurdu: "https://www.kitapyurdu.com/kitap/ozgurlugun-bedeli/369548.html&filter_name=%C3%96zg%C3%BCrl%C3%BC%C4%9F%C3%BCn+Bedeli"
-idefix: #"https://www.idefix.com/kitap/bir-yudum-sevgi/cocuk-ve-genclik/genclik-10-yas/romanoyku/urunno=0000000646232"
-hepsiburada: "hepsiburada.com/ozgurlugun-bedeli-p-KDAMLA39729"
-trendyol: "https://www.trendyol.com/genc-damla-yayinevi/ozgurlugun-bedeli-sara-gurbuz-ozeren-p-32162288"
-gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
-odatvkitap: #"https://www.odatvkitap.com.tr"
-bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
-amazontr: #"https://www.amazon.com.tr"
-dkitap: "https://www.dkitap.com/ozgurlugun-bedeli"
 damlayayinevi: "https://www.damlayayinevi.com.tr/ozgurlugun-bedeli"
 
 # For adding excerpt add <!--more--> and break the line

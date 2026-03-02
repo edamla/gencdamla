@@ -18,16 +18,7 @@ publish-number: 46
 cover: "Ciltli"
 
 # Buyout Ecommerce
-dnr: "https://www.dr.com.tr/kitap/dehlizdeki-sir/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001788052001"
-kitapyurdu: "https://www.kitapyurdu.com/kitap/dehlizdeki-sir/485273.html&filter_name=Dehlizdeki+S%C4%B1r"
-idefix: "https://www.idefix.com/kitap/dehlizdeki-sir/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001788052001"
-hepsiburada: "https://www.hepsiburada.com/dehlizdeki-sir-p-HBV00000GM3SG"
-trendyol: "https://www.trendyol.com/genc-damla-yayinevi-ozel-urun/dehlizdeki-sir-necati-akbaba-p-5777568"
-gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
-odatvkitap: #"https://www.odatvkitap.com.tr"
-bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
-amazontr: #"https://www.amazon.com.tr"
-dkitap: "https://www.dkitap.com/dehlizdeki-sir"
+
 damlayayinevi: "https://www.damlayayinevi.com.tr/dehlizdeki-sir"
 
 # For adding excerpt add <!--more--> and break the line

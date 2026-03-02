@@ -18,16 +18,6 @@ publish-number: 4
 cover: "Karton Kapak"
 
 # Buyout Ecommerce
-dnr: "https://www.dr.com.tr/kitap/cingoz-recai-misonun-definesi/peyami-safa/edebiyat/roman/polisiye/urunno=0000000547204"
-kitapyurdu: "https://www.kitapyurdu.com/kitap/misonun-definesi--cingoz-recai/5913.html&filter_name=mi%C5%9Fon%27un+definesi"
-idefix: "https://www.idefix.com/kitap/cingoz-recai-misonun-definesi/peyami-safa/edebiyat/roman/polisiye/urunno=0000000547204"
-hepsiburada: #"https://www.hepsiburada.com/ilya-nin-sirri-p-KDAMLA34465"
-trendyol: #"https://www.trendyol.com/humayun-yayinlari/abdulhamid-in-kurtlarla-dansi-1-p-156300963"
-gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
-odatvkitap: #"https://www.odatvkitap.com.tr"
-bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
-amazontr: #"https://www.amazon.com.tr"
-dkitap: "https://www.dkitap.com/misonun-definesi-cingoz-recai-serisi-03"
 damlayayinevi: "https://www.damlayayinevi.com.tr/mison-un-definesi-cingoz-recai-serisi-03"
 
 # For adding excerpt add <!--more--> and break the line

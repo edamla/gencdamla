@@ -18,16 +18,6 @@ publish-number: 7
 cover: "Karton Kapak"
 
 # Buyout Ecommerce
-dnr: "https://www.dr.com.tr/kitap/zoyadan-kacirilis/sara-gurbuz-ozeren/edebiyat/roman/fantastik/urunno=0000000547197"
-kitapyurdu: "https://www.kitapyurdu.com/kitap/zoyadan-kacirilis-amp-galaksiler-arasi-bilgi-savasi/298376.html&filter_name=Zoya%27dan+Ka%C3%A7%C4%B1r%C4%B1l%C4%B1%C5%9F"
-idefix: "https://www.idefix.com/kitap/zoyadan-kacirilis/sara-gurbuz-ozeren/edebiyat/roman/fantastik/urunno=0000000547197"
-hepsiburada: "https://www.hepsiburada.com/ara?q=Zoya%27dan+Ka%C3%A7%C4%B1r%C4%B1l%C4%B1%C5%9F"
-trendyol: "https://www.trendyol.com/sr?q=Zoya%27dan%20Ka%C3%A7%C4%B1r%C4%B1l%C4%B1%C5%9F&qt=Zoya%27dan%20Ka%C3%A7%C4%B1r%C4%B1l%C4%B1%C5%9F&st=Zoya%27dan%20Ka%C3%A7%C4%B1r%C4%B1l%C4%B1%C5%9F&os=1"
-gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
-odatvkitap: #"https://www.odatvkitap.com.tr"
-bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
-amazontr: #"https://www.amazon.com.tr"
-dkitap: "https://www.dkitap.com/zoyadan-kacirilis"
 damlayayinevi: "https://www.damlayayinevi.com.tr/zoya-dan-kacirilis"
 
 # For adding excerpt add <!--more--> and break the line

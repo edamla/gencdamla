@@ -18,16 +18,7 @@ publish-number: 61
 cover: "Ciltli"
 
 # Buyout Ecommerce
-dnr: "https://www.dr.com.tr/kitap/gizemli-gizem-2-ah-bir-carpan-eleman-olsam/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001910540001"
-kitapyurdu: "https://www.kitapyurdu.com/kitap/gizemli-gizem--ah-bir-carpan-eleman-olsam/575077.html&filter_name=Gizemli+Gizem"
-idefix: "https://www.idefix.com/kitap/gizemli-gizem-2-ah-bir-carpan-eleman-olsam/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001910540001"
-hepsiburada: "https://www.hepsiburada.com/damla-yayinevi-gizemli-gizem-ah-bir-carpan-eleman-olsam-p-HBCV000002M4CL"
-trendyol: "https://www.trendyol.com/genc-damla-yayinevi/gizemli-gizem-ah-bir-carpan-eleman-olsam-p-90281180"
-gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
-odatvkitap: #"https://www.odatvkitap.com.tr"
-bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
-amazontr: #"https://www.amazon.com.tr"
-dkitap: #"https://www.dkitap.com/gizemli-gizem-tekerlekli-bir-evim-olsa"
+
 damlayayinevi: "https://www.damlayayinevi.com.tr/gizemli-gizem-ah-bir-carpan-eleman-olsam"
 
 # For adding excerpt add <!--more--> and break the line

@@ -18,16 +18,7 @@ publish-number: 47
 cover: "Ciltli"
 
 # Buyout Ecommerce
-dnr: "https://www.dr.com.tr/kitap/kitap-korsanlarinin-pesinde/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001800074001"
-kitapyurdu: "https://www.kitapyurdu.com/kitap/kitap-korsanlarinin-pesinde/495669.html&filter_name=Kitap+Korsanlar%C4%B1n%C4%B1n+Pe%C5%9Finde"
-idefix: "https://www.idefix.com/kitap/kitap-korsanlarinin-pesinde/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001800074001"
-hepsiburada: "https://www.hepsiburada.com/kitap-korsanlarinin-pesinde-p-HBV00000MKHJT"
-trendyol: "https://www.trendyol.com/damla-yayinevi/kitap-korsanlarinin-pesinde-p-32312165"
-gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
-odatvkitap: #"https://www.odatvkitap.com.tr"
-bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
-amazontr: #"https://www.amazon.com.tr"
-dkitap: "https://www.dkitap.com/kitap-korsanlarinin-pesinde"
+
 damlayayinevi: "https://www.damlayayinevi.com.tr/kitap-korsanlarinin-pesinde"
 
 # For adding excerpt add <!--more--> and break the line

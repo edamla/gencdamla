@@ -18,16 +18,7 @@ publish-number: 18
 cover: "Karton Kapak"
 
 # Buyout Ecommerce
-dnr: "https://www.dr.com.tr/kitap/cingoz-recai-cingozun-esrari/edebiyat/roman/polisiye/urunno=0000000653122"
-kitapyurdu: "https://www.kitapyurdu.com/kitap/cingoz-recai--cingozun-esrari/367998.html&filter_name=Cing%C3%B6z%27%C3%BCn+Esrar%C4%B1"
-idefix: "https://www.idefix.com/kitap/cingoz-recai-cingozun-esrari/edebiyat/roman/polisiye/urunno=0000000653122"
-hepsiburada: "https://www.hepsiburada.com/cingoz-recai-cingoz-un-esrari-peyami-safa-p-HBV00000123NU"
-trendyol: "https://www.trendyol.com/genc-damla-yayinevi/cingoz-recai-cingoz-un-esrari-p-4668387"
-gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
-odatvkitap: #"https://www.odatvkitap.com.tr"
-bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
-amazontr: #"https://www.amazon.com.tr"
-dkitap: "https://www.dkitap.com/cingozun-esrari-cingoz-recai-serisi-10"
+
 damlayayinevi: "https://www.damlayayinevi.com.tr/cingoz-un-esrari-cingoz-recai-serisi-10"
 
 # For adding excerpt add <!--more--> and break the line

@@ -18,16 +18,6 @@ publish-number: 11
 cover: "Karton Kapak"
 
 # Buyout Ecommerce
-dnr: "https://www.dr.com.tr/kitap/seytani-tuzak-cingoz-recai/peyami-safa/edebiyat/roman/polisiye/urunno=0000000500638"
-kitapyurdu: "https://www.kitapyurdu.com/kitap/seytani-tuzak--cingoz-recai/5916.html&filter_name=%C5%9Eeytani+Tuzak"
-idefix: "https://www.idefix.com/kitap/seytani-tuzak-cingoz-recai/peyami-safa/edebiyat/roman/polisiye/urunno=0000000500638"
-hepsiburada: "https://www.hepsiburada.com/ara?q=damla+yay%C4%B1nevi+%C5%9Eeytani+Tuzak"
-trendyol: #"https://www.trendyol.com/humayun-yayinlari/abdulhamid-in-kurtlarla-dansi-1-p-156300963"
-gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
-odatvkitap: #"https://www.odatvkitap.com.tr"
-bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
-amazontr: #"https://www.amazon.com.tr"
-dkitap: "https://www.dkitap.com/seytani-tuzak-cingoz-recai-serisi-06"
 damlayayinevi: "https://www.damlayayinevi.com.tr/seytani-tuzak-cingoz-recai-serisi-06"
 
 # For adding excerpt add <!--more--> and break the line

@@ -18,16 +18,6 @@ publish-number: 23
 cover: "Karton Kapak"
 
 # Buyout Ecommerce
-dnr: #"https://www.dr.com.tr/kitap/fatihin-%C4%B1stanbul-ruyasi/talip-arisahin/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0000000646217"
-kitapyurdu: "https://www.kitapyurdu.com/kitap/cingoz-recai--madam-civiciyanin-gerdanligi-osmanlicaturkce-/369375.html&filter_name=Madam+%C3%87iviciyan%27%C4%B1n+Gerdanl%C4%B1%C4%9F%C4%B1"
-idefix: #"https://www.idefix.com/kitap/fatihin-%C4%B1stanbul-ruyasi/talip-arisahin/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0000000646217"
-hepsiburada: "https://www.hepsiburada.com/cingoz-recai-madam-civiciyan-in-gerdanligi-p-HBV000001270U"
-trendyol: "https://www.trendyol.com/genc-damla-yayinevi/cingoz-recai-madam-civiciyan-in-gerdanligi-osmanlica-turkce-p-32160743"
-gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
-odatvkitap: #"https://www.odatvkitap.com.tr"
-bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
-amazontr: #"https://www.amazon.com.tr"
-dkitap: "https://www.dkitap.com/madam-civiciyanin-gerdanligi-osmanli-turkcesi-ile"
 damlayayinevi: "https://www.damlayayinevi.com.tr/madam-civiciyan-in-gerdanligi-osmanli-turkcesi-ile"
 
 # For adding excerpt add <!--more--> and break the line

@@ -18,16 +18,7 @@ publish-number: 48
 cover: "Ciltli"
 
 # Buyout Ecommerce
-dnr: "https://www.dr.com.tr/kitap/dron-savascilari-buyuk-bulus/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001800073001"
-kitapyurdu: "https://www.kitapyurdu.com/kitap/dron-savascilari-amp-buyuk-bulus/495663.html&filter_name=Dron+Sava%C5%9F%C3%A7%C4%B1lar%C4%B1+B%C3%BCy%C3%BCk+Bulu%C5%9F"
-idefix: "https://www.idefix.com/kitap/dron-savascilari-buyuk-bulus/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001800073001"
-hepsiburada: "https://www.hepsiburada.com/dron-savascilari-buyuk-bulus-necati-akbaba-p-HBV00000JKGCC"
-trendyol: "https://www.trendyol.com/damla-cocuk-yayinlari/dron-savascilari-buyuk-bulus-p-97331875"
-gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
-odatvkitap: #"https://www.odatvkitap.com.tr"
-bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
-amazontr: #"https://www.amazon.com.tr"
-dkitap: "https://www.dkitap.com/dron-savascilari-buyuk-bulus"
+
 damlayayinevi: "https://www.damlayayinevi.com.tr/dron-savascilari-buyuk-bulus"
 
 # For adding excerpt add <!--more--> and break the line

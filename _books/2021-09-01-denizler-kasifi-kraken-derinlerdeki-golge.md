@@ -18,16 +18,7 @@ publish-number: 27
 cover: "Karton Kapak"
 
 # Buyout Ecommerce
-dnr: #"https://www.dr.com.tr/kitap/cingoz-recai-arsen-lupen-%C4%B1stanbulda/peyami-safa/edebiyat/roman/polisiye/urunno=0000000673268"
-kitapyurdu: #"https://www.kitapyurdu.com/kitap/cingoz-recai--arsen-lupen-istanbulda/381668.html&filter_name=Arsen+L%C3%BCpen+%C4%B0stanbul%27da"
-idefix: "https://www.idefix.com/kitap/cingoz-recai-arsen-lupen-%C4%B1stanbulda/peyami-safa/edebiyat/roman/polisiye/urunno=0000000673268"
-hepsiburada: "https://www.hepsiburada.com/denizler-kasifi-kraken-derinlerdeki-golge-pm-HBC00003UZRC4"
-trendyol: "https://www.trendyol.com/genc-damla-yayinevi/denizler-kasifi-kraken-derinlerdeki-golge-necati-akbaba-genc-damla-yayinevi-9786051744179-p-754223614?boutiqueId=61&merchantId=701468"
-gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
-odatvkitap: #"https://www.odatvkitap.com.tr"
-bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
-amazontr: #"https://www.amazon.com.tr"
-dkitap: #"https://www.dkitap.com/arsen-lupen-istanbulda-cingoz-recai-serisi-12"
+
 damlayayinevi: "https://www.damlayayinevi.com.tr/denizler-kasifi-kraken-derinlerdeki-golge"
 
 # For adding excerpt add <!--more--> and break the line

@@ -18,16 +18,7 @@ publish-number: 40
 cover: "Ciltli"
 
 # Buyout Ecommerce
-dnr: "https://www.dr.com.tr/kitap/galaktika-uzay-%C4%B1mparatorlugu/cocuk-ve-genclik/okul-cagi-6-10-yas/cocuk-bilim/urunno=0001750193001"
-kitapyurdu: "https://www.kitapyurdu.com/kitap/galaktika-uzay-imparatorlugu/455955.html&filter_name=Galaktika+Uzay+%C4%B0mparatorlu%C4%9Fu"
-idefix: "https://www.idefix.com/kitap/galaktika-uzay-%C4%B1mparatorlugu/cocuk-ve-genclik/okul-cagi-6-10-yas/cocuk-bilim/urunno=0001750193001"
-hepsiburada: "https://www.hepsiburada.com/galaktika-uzay-imparatorlugu-p-HBV00000GM3SY"
-trendyol: "https://www.trendyol.com/genc-damla-yayinevi-ozel-urun/galaktika-uzay-imparatorlugu-p-4678144"
-gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
-odatvkitap: #"https://www.odatvkitap.com.tr"
-bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
-amazontr: #"https://www.amazon.com.tr"
-dkitap: "https://www.dkitap.com/galaktik-uzay-imparatorlugu"
+
 damlayayinevi: "https://www.damlayayinevi.com.tr/galaktika-uzay-imparatorlugu"
 
 # For adding excerpt add <!--more--> and break the line

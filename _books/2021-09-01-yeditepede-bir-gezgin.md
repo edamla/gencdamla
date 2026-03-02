@@ -18,16 +18,7 @@ publish-number: 24
 cover: "Karton Kapak"
 
 # Buyout Ecommerce
-dnr: "https://www.dr.com.tr/kitap/yeditepede-bir-gezgin/sara-gurbuz-ozeren/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0000000673018"
-kitapyurdu: "https://www.kitapyurdu.com/kitap/yeditepede-bir-gezgin/381397.html&filter_name=Yeditepede+Bir+Gezgin"
-idefix: "https://www.idefix.com/kitap/yeditepede-bir-gezgin/sara-gurbuz-ozeren/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0000000673018"
-hepsiburada: "https://www.hepsiburada.com/yeditepede-bir-gezgin-p-HBV000004KHV2"
-trendyol: "https://www.trendyol.com/genc-damla-yayinevi/yeditepede-bir-gezgin-p-4095843"
-gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
-odatvkitap: #"https://www.odatvkitap.com.tr"
-bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
-amazontr: #"https://www.amazon.com.tr"
-dkitap: "https://www.dkitap.com/yeditepede-bir-gezgin"
+
 damlayayinevi: "https://www.damlayayinevi.com.tr/yeditepede-bir-gezgin"
 
 # For adding excerpt add <!--more--> and break the line

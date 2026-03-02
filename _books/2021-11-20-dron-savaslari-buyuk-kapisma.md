@@ -18,16 +18,7 @@ publish-number: 67
 cover: "Ciltli"
 
 # Buyout Ecommerce
-dnr: #"https://www.dr.com.tr/kitap/gizemli-gizem/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001857499001"
-kitapyurdu: #"https://www.kitapyurdu.com/kitap/gizemli-gizem/527848.html&filter_name=Gizemli+Gizem"
-idefix: #"https://www.idefix.com/kitap/gizemli-gizem/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001857499001"
-hepsiburada: "https://www.hepsiburada.com/dron-savascilari-5-buyuk-kapisma-sara-gurbuz-ozeren-ciltli-p-HBCV00002HU6A1"
-trendyol: "https://www.trendyol.com/genc-damla-yayinlari/dron-savascilari-5-p-330291439"
-gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
-odatvkitap: #"https://www.odatvkitap.com.tr"
-bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
-amazontr: #"https://www.amazon.com.tr"
-dkitap: #"https://www.dkitap.com/gizemli-gizem-tekerlekli-bir-evim-olsa"
+
 damlayayinevi: "https://www.damlayayinevi.com.tr/dron-savascilari-5-buyuk-kapisma"
 
 # For adding excerpt add <!--more--> and break the line

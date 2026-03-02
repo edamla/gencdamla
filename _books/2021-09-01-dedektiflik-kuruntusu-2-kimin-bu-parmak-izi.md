@@ -18,16 +18,7 @@ publish-number: 54
 cover: "Ciltli"
 
 # Buyout Ecommerce
-dnr: "https://www.dr.com.tr/kitap/dedektif-kuruntusu-1-kimin-bu-parmak-%C4%B1zi/cocuk-ve-genclik/okul-cagi-6-10-yas/cocuk-oykuhikaye/urunno=0001735126001"
-kitapyurdu: "https://www.kitapyurdu.com/kitap/dedektif-kuruntusu-1--kimin-bu-parmak-izi/444053.html&filter_name=Dedektif+Kuruntusu"
-idefix: "https://www.idefix.com/kitap/dedektif-kuruntusu-1-kimin-bu-parmak-%C4%B1zi/cocuk-ve-genclik/okul-cagi-6-10-yas/cocuk-oykuhikaye/urunno=0001735126001"
-hepsiburada: "https://www.hepsiburada.com/dedektif-kuruntusu-1-kimin-bu-parmak-izi-p-HBV00000GM3SW"
-trendyol: "https://www.trendyol.com/damla-yayinevi/dedektif-kuruntusu-1-kimin-bu-parmak-izi-p-4471610"
-gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
-odatvkitap: #"https://www.odatvkitap.com.tr"
-bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
-amazontr: #"https://www.amazon.com.tr"
-dkitap: "https://www.dkitap.com/dedektif-kuruntusu-1-kimin-bu-parmak-izi"
+
 damlayayinevi: "https://www.damlayayinevi.com.tr/dedektif-kuruntusu-1-kimin-bu-parmak-izi"
 
 # For adding excerpt add <!--more--> and break the line

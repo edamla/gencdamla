@@ -18,16 +18,6 @@ publish-number: 15
 cover: "Karton Kapak"
 
 # Buyout Ecommerce
-dnr: "https://www.dr.com.tr/kitap/sultan-azizin-mucevherleri-cingoz-recai/peyami-safa/cocuk-ve-genclik/okul-cagi-6-10-yas/cocuk-egitim-etkinlik/urunno=0000000500619"
-kitapyurdu: "https://www.kitapyurdu.com/kitap/sultan-azizin-mucevherleri--cingoz-recainin-en-son-maceralari/534639.html&filter_name=Sultan+Aziz%27in+M%C3%BCcevherleri"
-idefix: "https://www.idefix.com/kitap/sultan-azizin-mucevherleri-cingoz-recai/peyami-safa/cocuk-ve-genclik/okul-cagi-6-10-yas/cocuk-egitim-etkinlik/urunno=0000000500619"
-hepsiburada: "https://www.hepsiburada.com/sultan-aziz-in-mucevherleri-peyami-safa-p-KDAMLA38418"
-trendyol: "https://www.trendyol.com/damla-yayinevi/sultan-aziz-in-mucevherleri-cingoz-recai-p-3280362"
-gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
-odatvkitap: #"https://www.odatvkitap.com.tr"
-bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
-amazontr: #"https://www.amazon.com.tr"
-dkitap: "https://www.dkitap.com/sultan-azizin-mucevherleri-cingoz-recai-serisi-08"
 damlayayinevi: "https://www.damlayayinevi.com.tr/sultan-aziz-in-mucevherleri-cingoz-recai-serisi-08"
 
 # For adding excerpt add <!--more--> and break the line

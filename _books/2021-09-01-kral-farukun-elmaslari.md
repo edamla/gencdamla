@@ -18,16 +18,7 @@ publish-number: 16
 cover: "Karton Kapak"
 
 # Buyout Ecommerce
-dnr: "https://www.dr.com.tr/kitap/kral-farukun-elmaslari-2-cingoz-recai/peyami-safa/edebiyat/roman/polisiye/urunno=0000000500617"
-kitapyurdu: "https://www.kitapyurdu.com/kitap/kral-farukun-elmaslari--cingoz-recai/356496.html&filter_name=Kral+Faruk%27un+Elmaslar%C4%B1"
-idefix: "https://www.idefix.com/kitap/kral-farukun-elmaslari-2-cingoz-recai/peyami-safa/edebiyat/roman/polisiye/urunno=0000000500617"
-hepsiburada: "https://www.hepsiburada.com/kral-faruk-un-elmaslari-cingoz-recai-peyami-safa-p-HBV00000124W8"
-trendyol: "https://www.trendyol.com/genc-damla-yayinevi/cingoz-recai-kral-farukun-elmaslari-peyami-safa-p-4093947"
-gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
-odatvkitap: #"https://www.odatvkitap.com.tr"
-bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
-amazontr: #"https://www.amazon.com.tr"
-dkitap: "https://www.dkitap.com/kral-farukun-elmaslari-cingoz-recai-serisi-09"
+
 damlayayinevi: "https://www.damlayayinevi.com.tr/kral-faruk-un-elmaslari-cingoz-recai-serisi-09"
 
 # For adding excerpt add <!--more--> and break the line

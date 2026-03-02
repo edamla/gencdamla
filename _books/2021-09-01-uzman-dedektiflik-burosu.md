@@ -1,6 +1,6 @@
 ---
 layout: book
-title:  "Uzman Dedektiflik Bürosu"
+title:  "Uzman Dedektiflik Bürosu (Karton)"
 authors: ["esra-avgoren"]
 illustrators: #["nur-dombayci","umit-ozturk"]
 translators: #["naci-turan","burak-dogru"]
@@ -15,20 +15,10 @@ languages: ["Türkçe"]
 page: 176
 size: "13,5x21cm"
 publish-number: 44
-cover: "Ciltli"
+cover: "Karton"
 
 # Buyout Ecommerce
-dnr: "https://www.dr.com.tr/kitap/uzman-dedektiflik-burosu/cocuk-ve-genclik/genclik-10-yas/romanoyku/urunno=0001786701001"
-kitapyurdu: "https://www.kitapyurdu.com/kitap/uzman-dedektiflik-burosu/483845.html&filter_name=Uzman+Dedektiflik+B%C3%BCrosu"
-idefix: "https://www.idefix.com/kitap/uzman-dedektiflik-burosu/cocuk-ve-genclik/genclik-10-yas/romanoyku/urunno=0001786701001"
-hepsiburada: "https://www.hepsiburada.com/uzman-dedektiflik-burosu-p-HBV00000GM3SI"
-trendyol: "https://www.trendyol.com/damla-yayinevi-cocuk/uzman-dedektiflik-burosu-p-4502906"
-gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
-odatvkitap: #"https://www.odatvkitap.com.tr"
-bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
-amazontr: #"https://www.amazon.com.tr"
-dkitap: "https://www.dkitap.com/uzman-dedektiflik-burosu"
-damlayayinevi: "https://www.damlayayinevi.com.tr/uzman-dedektiflik-burosu"
+damlayayinevi: "https://www.damlayayinevi.com.tr/uzman-dedektiflik-burosu-karton"
 
 # For adding excerpt add <!--more--> and break the line
 ---

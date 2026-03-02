@@ -18,16 +18,7 @@ publish-number: 20
 cover: "Karton Kapak"
 
 # Buyout Ecommerce
-dnr: "https://www.dr.com.tr/kitap/bir-yudum-sevgi/cocuk-ve-genclik/genclik-10-yas/romanoyku/urunno=0000000646232"
-kitapyurdu: "https://www.kitapyurdu.com/kitap/bir-yudum-sevgi/367996.html&filter_name=Bir+Yudum+Sevgi"
-idefix: "https://www.idefix.com/kitap/bir-yudum-sevgi/cocuk-ve-genclik/genclik-10-yas/romanoyku/urunno=0000000646232"
-hepsiburada: "https://www.hepsiburada.com/bir-yudum-sevgi-sara-gurbuz-ozeren-p-KDAMLA39712"
-trendyol: "https://www.trendyol.com/genc-damla-yayinevi/bir-yudum-sevgi-p-3282821"
-gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
-odatvkitap: #"https://www.odatvkitap.com.tr"
-bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
-amazontr: #"https://www.amazon.com.tr"
-dkitap: "https://www.dkitap.com/bir-yudum-sevgi"
+
 damlayayinevi: "https://www.damlayayinevi.com.tr/bir-yudum-sevgi"
 
 # For adding excerpt add <!--more--> and break the line

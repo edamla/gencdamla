@@ -18,16 +18,7 @@ publish-number: 55
 cover: "Ciltli"
 
 # Buyout Ecommerce
-dnr: "https://www.dr.com.tr/kitap/demir-pence-suziko-antartika-macerasi/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001867716001"
-kitapyurdu: "https://www.kitapyurdu.com/kitap/demir-pence-suziko-antarktika-macerasi/536274.html&filter_name=Demir+Pen%C3%A7e+Suziko"
-idefix: "https://www.idefix.com/kitap/demir-pence-suziko-antartika-macerasi/cocuk-ve-genclik/genclik-10-yas/roman-oyku/urunno=0001867716001"
-hepsiburada: "https://www.hepsiburada.com/demir-pence-suziko-antarktika-macerasi-sara-gurbuz-ozeren-p-HBV00000P75KC"
-trendyol: "https://www.trendyol.com/genc-damla-yayinevi/demir-pence-suziko-antarktika-macerasi-p-37215195"
-gittigidiyor: #"https://www.gittigidiyor.com/kitap-dergi/ezan-sehidi-adnan-menderes_pdp_732728793"
-odatvkitap: #"https://www.odatvkitap.com.tr"
-bkmkitap: #"https://www.bkmkitap.com/abdulhamidin-kurtlarla-dansi-578226"
-amazontr: #"https://www.amazon.com.tr"
-dkitap: "https://www.dkitap.com/demir-pence-suziko-antarktika-macerasi"
+
 damlayayinevi: "https://www.damlayayinevi.com.tr/demir-pence-suziko-antarktika-macerasi"
 
 # For adding excerpt add <!--more--> and break the line
